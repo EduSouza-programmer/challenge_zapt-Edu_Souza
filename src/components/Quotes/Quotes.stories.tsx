@@ -11,6 +11,12 @@ const WrapperCenter = styled.div`
   height: 100vh;
 `;
 
+const Box = styled.div`
+  width: 70rem;
+  height: 20rem;
+  background-color: #434347;
+`;
+
 const defaultDecorator = (Story: Story): StoryFnReactReturnType => (
   <WrapperCenter>
     <Story />
@@ -18,27 +24,30 @@ const defaultDecorator = (Story: Story): StoryFnReactReturnType => (
 );
 
 export default {
-  title: "Quotes",
+  title: "Components/Quotes",
   component: Quotes,
   argTypes: {
-    example: {
-      description: "",
-      control: { type: "" },
-      options: ["small", "medium", "large"],
+    children: {
+      type: { required: true },
+      description: "Quotes children",
+      control: { type: "null" },
 
       table: {
-        category: "choices",
+        category: "logics",
         type: {
-          summary: "small | medium | large",
-          detail: "",
+          summary: "React.ReactNode",
+          detail:
+            "type ReactNode = boolean | ReactChild | ReactFragment | ReactPortal | null | undefined",
         },
       },
     },
   },
-  args: {},
+  args: {
+    children: <Box />,
+  },
   parameters: {
     viewport: {
-      defaultViewport: "mobile1",
+      defaultViewport: "desktop",
     },
     backgrounds: {
       default: "light",
@@ -49,4 +58,4 @@ export default {
   decorators: [defaultDecorator],
 } as Meta<QuotesProps>;
 
-export const Default: Story<QuotesProps> = () => <Quotes />;
+export const Default: Story<QuotesProps> = (args) => <Quotes {...args} />;
