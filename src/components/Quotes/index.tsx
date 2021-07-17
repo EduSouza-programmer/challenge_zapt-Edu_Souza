@@ -1,13 +1,15 @@
 import * as S from "./Quotes.styles";
 
 export type QuotesProps = {
-  example: string;
+  children: React.ReactNode;
 };
 
-function Quotes() {
+function Quotes({ children }: QuotesProps) {
   return (
     <S.Wrapper>
-      <h1>Quotes</h1>
+      <S.QuotesTop role="img" aria-label="quotes top left" />
+      {children}
+      <S.QuotesBottom role="img" aria-label="quotes bottom right" />
     </S.Wrapper>
   );
 }
