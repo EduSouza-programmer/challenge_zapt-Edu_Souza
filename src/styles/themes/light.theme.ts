@@ -47,7 +47,7 @@ const fontPoppins600 = {
 export default responsiveFontSizes(
   createTheme({
     gridLayout: {
-      container: "130rem",
+      container: "120rem",
       gutter: "3.2rem",
     },
     typography: {
@@ -89,7 +89,7 @@ export default responsiveFontSizes(
         main: "#EAEAEA",
       },
       gray: {
-        main: "#8F8F8F",
+        main: "#7B7B7B",
       },
       darkGray: {
         main: "#2E2F42",
@@ -127,7 +127,7 @@ export default responsiveFontSizes(
       xhuge: "1920px",
       huge: "1440px",
       large: "1170px",
-      medium: "769px",
+      medium: "762px",
       small: "450px",
       xsmall: "350px",
     }),
@@ -148,7 +148,7 @@ export default responsiveFontSizes(
           body: {
             fontFamily: `"Poppins","Roboto", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Open Sans", "Helvetica Neue", "sans-serif"`,
             fontSize: "1.6rem",
-            backgroundColor: "#06092B",
+            backgroundColor: "#FAFAFA",
           },
           "*": {
             margin: 0,

@@ -13,7 +13,7 @@ export type WelcomeProps = {
 function Welcome({
   username,
   message,
-  imageBanner = "img/Mask_Group.png",
+  imageBanner = "/img/Mask_Group.png",
 }: WelcomeProps) {
   return (
     <S.Wrapper>

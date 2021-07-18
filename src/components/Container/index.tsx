@@ -5,7 +5,8 @@ export const Container = styled.div`
     max-width: ${theme.gridLayout.container};
     margin-left: auto;
     margin-right: auto;
-    padding-left: calc(${theme.gridLayout.gutter} / 2);
-    padding-right: calc(${theme.gridLayout.gutter} / 2);
+    padding-left: ${theme.spacings.large};
+    padding-right: ${theme.spacings.large};
+    margin-top: ${theme.spacings.xxlarge};
   `}
 `;

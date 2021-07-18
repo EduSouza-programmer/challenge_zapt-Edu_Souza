@@ -116,7 +116,7 @@ export const ArcCircle = styled.img`
     position: absolute;
     z-index: ${theme.zIndex.base};
     top: 17rem;
-    left: 6rem;
+    left: 8rem;
     height: 10rem;
   `}
 `;

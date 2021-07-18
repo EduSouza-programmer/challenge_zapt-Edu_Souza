@@ -9,6 +9,11 @@ module.exports = withPWA({
     disable: !isProd,
   },
   images: {
-    domains: ['localhost', 'source.unsplash.com'],
+    domains: [
+      'localhost',
+      'i.pstimaj.com',
+      'img.srgcdn.com',
+      'images.unsplash.com',
+    ],
   },
 });

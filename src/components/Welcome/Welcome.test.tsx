@@ -21,7 +21,7 @@ describe("<Welcome />", () => {
 
     expect(screen.getByRole("img", { name: /happy people/i })).toHaveAttribute(
       "src",
-      "img/Mask_Group.png"
+      "/img/Mask_Group.png"
     );
   });
 

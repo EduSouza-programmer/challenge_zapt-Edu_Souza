@@ -4,7 +4,7 @@ export default [
   {
     user: "Patricia Godoy",
     city: "São Paulo",
-    avatar: "img/patricia_godoy.png",
+    avatar: "/img/patricia_godoy.png",
     uf: "SP",
     feedback:
       "”Não consigo mais viver sem os produtos do Sítio, a diferença do que eu comprava antes e agora é abissal”",
@@ -14,7 +14,7 @@ export default [
   {
     user: "Patricia Godoy",
     city: "São Paulo",
-    avatar: "img/patricia_godoy.png",
+    avatar: "/img/patricia_godoy.png",
     uf: "SP",
     feedback:
       "”Não consigo mais viver sem os produtos do Sítio, a diferença do que eu comprava antes e agora é abissal”",
@@ -24,7 +24,7 @@ export default [
   {
     user: "Patricia Godoy",
     city: "São Paulo",
-    avatar: "img/patricia_godoy.png",
+    avatar: "/img/patricia_godoy.png",
     uf: "SP",
     feedback:
       "”Não consigo mais viver sem os produtos do Sítio, a diferença do que eu comprava antes e agora é abissal”",
@@ -34,7 +34,7 @@ export default [
   {
     user: "Patricia Godoy",
     city: "São Paulo",
-    avatar: "img/patricia_godoy.png",
+    avatar: "/img/patricia_godoy.png",
     uf: "SP",
     feedback:
       "”Não consigo mais viver sem os produtos do Sítio, a diferença do que eu comprava antes e agora é abissal”",
