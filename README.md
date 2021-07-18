@@ -41,8 +41,8 @@ Foi uma ótima experiência esse teste seletivo, confesso que fiquei um pouco ne
 #### Screenshots:
 
 <p align=center >
-  <img height="210px"  src="./img/home_desktop.png"> &nbsp; &nbsp; 
-  <img height="235px" src="./img/mobile.png">
+  <img height="210px"  src="./public/img/home_desktop.png"> &nbsp; &nbsp; 
+  <img height="235px" src="./public/img/mobile.png">
 </p>
 
 ## :postbox: Entrega
