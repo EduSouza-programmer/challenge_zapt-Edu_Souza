@@ -49,7 +49,36 @@ Foi uma ótima experiência esse teste seletivo, confesso que fiquei um pouco ne
 
 #### Concluido :clipboard:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_flexbox-origamid/).
+Todo projeto foi estruturado usando kanban aqui mesmo na aba projects github.
+Você pode acessar [aqui](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza/projects/1).
+
+Para executar o projeto basta seguir os passos abaixo
+
+1. Clone o repositório e abra a pasta dele:
+
+```shell
+$ git clone https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza && cd desafio-zapt
+```
+
+2. Instale as dependência com `yarn` ou `npm`:
+
+```shell
+$ yarn install
+```
+
+3. Depois de clonar e instalar o repositório, rode o projeto em `localhost`:
+
+```shell
+$ yarn dev
+```
+
+Todo projeto foi feito com storybook! :smile: 
+Para executar, depois dos passos acima, segue os passos: 
+
+```shell
+$ yarn storybook
+```
+
 
 # 
 ## :unlock: Licença
