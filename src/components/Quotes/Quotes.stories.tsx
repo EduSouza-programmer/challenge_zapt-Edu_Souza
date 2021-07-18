@@ -53,7 +53,6 @@ export default {
       default: "light",
     },
     layout: "fullscreen",
-    controls: { hideNoControlsWarning: true },
   },
   decorators: [defaultDecorator],
 } as Meta<QuotesProps>;
