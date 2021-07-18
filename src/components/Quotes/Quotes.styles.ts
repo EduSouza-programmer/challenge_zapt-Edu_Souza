@@ -18,6 +18,7 @@ export const QuotesTop = styled(Quotes)`
     height: 6.2rem;
     top: -2rem;
     left: -2rem;
+    z-index: ${theme.zIndex.alwaysOnTop};
   `}
 `;
 
@@ -26,7 +27,8 @@ export const QuotesBottom = styled(Quotes)`
     background-color: ${theme.palette.primary.main};
     width: 10rem;
     height: 10rem;
-    bottom: -2rem;
-    right: -2rem;
+    bottom: -3rem;
+    right: -4rem;
+    z-index: ${theme.zIndex.alwaysOnTop};
   `}
 `;
