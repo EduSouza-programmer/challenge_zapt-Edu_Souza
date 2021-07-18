@@ -31,10 +31,10 @@ describe("<MediaMatch />", () => {
 
   it("should show or hide based on the media passed", () => {
     expect(desktopHeading.parentElement).toHaveStyleRule("display", "block", {
-      media: "(min-width: 769px)",
+      media: "(min-width: 762px)",
     });
     expect(mobileHeading.parentElement).toHaveStyleRule("display", "block", {
-      media: "(max-width: 769px)",
+      media: "(max-width: 762px)",
     });
   });
 });
