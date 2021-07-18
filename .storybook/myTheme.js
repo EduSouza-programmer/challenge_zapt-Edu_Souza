@@ -33,7 +33,7 @@ export default create({
   base: 'dark',
   brandTitle: 'My custom storybook',
   brandUrl:
-    'https://res.cloudinary.com/dppr8dksd/image/upload/v1622758891/logo-won_i9mqak.svg',
+    'https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png',
   brandImage:
-    'https://res.cloudinary.com/dppr8dksd/image/upload/v1622758891/logo-won_i9mqak.svg',
+    'https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png',
 });
