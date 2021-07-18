@@ -68,7 +68,7 @@ export default responsiveFontSizes(
     palette: {
       type: "light",
       primary: {
-        main: "#F231A5",
+        main: "#334bc8",
       },
       secondary: {
         main: "#3CD3C1",
@@ -95,7 +95,7 @@ export default responsiveFontSizes(
         main: "#2E2F42",
       },
       red: {
-        main: "#FF5F5F",
+        main: "#ff5b58",
       },
     },
     spacings: {
