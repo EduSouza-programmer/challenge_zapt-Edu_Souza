@@ -74,15 +74,19 @@ $ yarn dev
 
 <br/>
 
-Todo projeto foi feito com storybook! :smile: 
+E só pra não esquecer srsrs, todo o projeto foi feito com storybook! :smile: 
 Para executar, depois que concluir os passos acima, siga com: 
 
 ```shell
 $ yarn storybook
 ```
 
+### Considerações finais
 
-# 
+Mas uma vez quero agradecer a oportunidade, principalmente ao professor Willian Justen, graças aos seus cursos tenho adquirido conhecimentos mais avançados que me dão maturidade na minha jornada de desenvolvedor web. :rocket:
+
+<br/>
+
 ## :unlock: Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte [LICENSE](https://opensource.org/licenses/MIT) para maiores detalhes.
