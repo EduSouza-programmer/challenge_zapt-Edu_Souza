@@ -72,8 +72,10 @@ $ yarn install
 $ yarn dev
 ```
 
+<br/>
+
 Todo projeto foi feito com storybook! :smile: 
-Para executar, depois dos passos acima, segue os passos: 
+Para executar, depois que concluir os passos acima, siga com: 
 
 ```shell
 $ yarn storybook
