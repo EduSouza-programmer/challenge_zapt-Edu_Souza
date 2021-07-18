@@ -7,6 +7,11 @@ export const Wrapper = styled.div`
       font-weight: ${theme.typography.fontWeightLight};
       text-align: center;
       margin-bottom: ${theme.spacings.xlarge};
+      margin-top: ${theme.spacings.xxlarge};
+    }
+
+    .slick-slider {
+      margin-bottom: ${theme.spacings.xxlarge};
     }
 
     .slick-prev,
