@@ -11,7 +11,7 @@ const WrapperCenter = styled.div`
   height: 100vh;
   max-width: 120rem;
   margin: 0 auto;
-  padding: 5rem;
+  padding: 7rem;
 `;
 
 const defaultDecorator = (Story: Story): StoryFnReactReturnType => (
