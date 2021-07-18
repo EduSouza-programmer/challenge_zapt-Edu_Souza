@@ -1,34 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img align="center" alt="Imagem trybe" src="https://raw.githubusercontent.com/agraluca/desafio-zapt/main/.github/logo.png" width="400px" />
+</h1>
 
-## Getting Started
+<h3 align="center">
+  Desafio Zapt - Edu Souza o/
+</h3>
 
-First, run the development server:
+<blockquote align="center">“Os melhores momentos na vida são como os arcos-íris: aparecem quando você menos espera.”</blockquote>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<h4 align="center">
+  Repositório - Processo seletivo da Zapt
+</h4>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br/>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p align="center">
+  <a href="https://github.com/EduSouza-programmer"    target="_blank">
+    <img alt="Made by Eduardo Souza" src="https://img.shields.io/badge/made%20by-Edu%20Souza-%23F8952D">
+  </a>&nbsp;
+  <a href="https://edusouza-programmer.github.io/" target="_blank">
+    <img alt="Github page Edu_Souza " src="https://img.shields.io/badge/Github%20page-Edu_Souza-orange">
+  </a>&nbsp;
+  <a href="LICENSE" >
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p align="center">
+  <a href="#rocket-Sobre-o-curso">Sobre o processo</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#unlock-Licença">Licença</a>
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## :rocket: Sobre o processo
 
-## Learn More
+#### Desafio Zapt
 
-To learn more about Next.js, take a look at the following resources:
+Foi uma ótima experiência esse teste seletivo, confesso que fiquei um pouco nervoso pela expectativa da avaliação do Willian Justen, mas fui ficando mais calmo depois as coisas foram fluindo :smile:. Espero que atenda as expectativas e desejo boa sorte a todos o/.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Screenshots:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align=center >
+  <img height="210px"  src="./img/home_desktop.png"> &nbsp; &nbsp; 
+  <img height="235px" src="./img/mobile.png">
+</p>
 
-## Deploy on Vercel
+## :postbox: Entrega
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### Concluido :clipboard:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_flexbox-origamid/).
+
+# 
+## :unlock: Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte [LICENSE](https://opensource.org/licenses/MIT) para maiores detalhes.
