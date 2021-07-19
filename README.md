@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Sobre-o-curso">Sobre o processo</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#rocket-Sobre-o-processo">Sobre o processo</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
