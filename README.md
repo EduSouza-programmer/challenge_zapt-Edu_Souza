@@ -45,6 +45,8 @@ Foi uma ótima experiência esse teste seletivo, confesso que fiquei um pouco ne
   <img height="235px" src="./public/img/mobile.png">
 </p>
 
+<br/>
+
 ## :postbox: Entrega
 
 Aqui estão as instruções da avaliação do processo seletivo, [link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza/blob/main/instructions/Readme.md).
