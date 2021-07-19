@@ -38,7 +38,7 @@
 
 A Zapt é um produto e-commerce social, que é algo bem novo aqui no Brazil mas gigante lá fora. Básicamente você junta seus amigos para comprar com desconto, assim você economiza até 50% comprando com seus grupos de WhatsApp. Então, sabe aquele seu grupo favorito? Agora dá pra fazer compras entre os amigos e vizinhos de forma fácil e segura. Para maiores informações, acesse aqui o [site](https://www.zapt.com.br/).
 
-Foi uma ótima experiência esse teste seletivo, confesso que fiquei um pouco nervoso pela expectativa da avaliação do Willian Justen, mas fui ficando mais calmo depois as coisas foram fluindo :smile:. Espero que atenda as expectativas e desejo boa sorte a todos o/.
+Posso dizer com muita felicidade que foi uma ótima experiência esse teste seletivo, confesso que fiquei um pouco nervoso pela expectativa da avaliação do Willian Justen, mas fui ficando mais calmo depois as coisas foram fluindo :smile:. Espero que atenda as expectativas e desejo boa sorte a todos o/.
 
 #### Screenshots:
 
