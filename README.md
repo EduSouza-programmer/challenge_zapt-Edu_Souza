@@ -47,6 +47,7 @@ Foi uma ótima experiência esse teste seletivo, confesso que fiquei um pouco ne
 
 ## :postbox: Entrega
 
+Aqui estão as instruções da avaliação do processo seletivo, [link]("./instructions/Readme.md")
 #### Concluido :clipboard:
 
 Todo projeto foi estruturado usando kanban aqui mesmo na aba projects github.
