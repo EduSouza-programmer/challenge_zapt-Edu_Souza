@@ -78,7 +78,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :postbox: Entrega
 
 Aqui estão as instruções da avaliação do processo seletivo, [link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza/blob/main/instructions/Readme.md).
-#### Concluido :clipboard:
+#### Concluído :clipboard:
 
 Todo projeto foi estruturado usando kanban aqui mesmo na aba projects github. Você pode acessar [aqui](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza/projects/1).
 
