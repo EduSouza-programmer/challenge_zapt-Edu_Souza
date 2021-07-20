@@ -64,7 +64,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <td align=center><a href="https://pt-br.reactjs.org/"><div>React</div><img src="https://img.icons8.com/officel/80/000000/react.png" height="40px" /></a></td>
     <td align=center><a href="https://nodejs.org/en/"><div>NodeJs</div><img src="https://img.icons8.com/color/96/000000/nodejs.png" height="40px" /></a> </td>
     <td align=center><a href="https://www.typescriptlang.org/"><div>Typescript</div><img src="https://img.icons8.com/color/96/000000/typescript.png" height="40px" /></a></td>
-    <td align=center><a href="https://styled-components.com/"><div>S.Component</div><img src="https://styled-components.com/logo.png" height="40px" /></a></td>
+    <td align=center><a href="https://styled-components.com/"><div>S.Comp</div><img src="https://styled-components.com/logo.png" height="40px" /></a></td>
     <td align=center><a href="https://storybook.js.org/"><div>Storybook</div><img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" height="40px" /></a></td>
     <td align=center><a href="https://jestjs.io/pt-BR/"><div>&nbsp;Jest&nbsp; </div><img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="40px" /></a></td>
     <td align=center><a href="https://testing-library.com/"><div>Testing-library</div><img src="https://testing-library.com/img/octopus-64x64.png" height="40px" /></a></td>
