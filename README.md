@@ -68,7 +68,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <td align=center><a href="https://jestjs.io/pt-BR/"><div>Jest</div><img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="40px" /></a></td>
     <td align=center><a href="https://testing-library.com/"><div>Testing-library</div><img src="https://testing-library.com/img/octopus-64x64.png" height="40px" /></a></td>
     <td align=center><a href="https://eslint.org/"><div>Eslint</div><img src="https://www.pinclipart.com/picdir/middle/280-2800377_eslint-vector-clipart.png" height="40px" /></a></td>
-    <td align=center><a href="https://prettier.io/"><div>Prettier</div><img src="https://camo.githubusercontent.com/dff60c3322fc0645c42441b218ce565be5d14b528ac4d79247baa547b4977d1f/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e6" height="40px" /></a></td>
+    <td align=center><a href="https://prettier.io/"><div>Prettier</div><img src="https://camo.githubusercontent.com/dff60c3322fc0645c42441b218ce565be5d14b528ac4d79247baa547b4977d1f/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e67" height="40px" /></a></td>
   </tr>
 </table>
 
