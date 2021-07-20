@@ -27,10 +27,13 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Sobre-o-processo">Sobre o processo</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
-  <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#postbox-Entrega">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
+
+<br/>
 
 ## :rocket: Sobre o processo
 
@@ -46,6 +49,25 @@ Posso dizer com muita felicidade que foi uma ótima experiência esse teste sele
   <img height="210px"  src="./public/img/home_desktop.png"> &nbsp; &nbsp; 
   <img height="235px" src="./public/img/mobile.png">
 </p>
+
+<br/>
+
+<br/>
+
+## <img height="30" src="https://raw.githubusercontent.com/EduSouza-programmer/EduSouza-programmer/main/assets/stubparrot.gif"> Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+<table >
+  <tr>
+    <td align=center><a href="https://nextjs.org/"><div>NextJs</div><img src="https://boringowl.io/wp-content/uploads/2020/03/next-js-framework-300x300.jpg" height="40px" /></a></td>
+    <td align=center><a href="https://pt-br.reactjs.org/"><div>React</div><img src="https://img.icons8.com/officel/80/000000/react.png" height="40px" /></a></td>
+    <td align=center><a href="https://nodejs.org/en/"><div>NodeJs</div><img src="https://img.icons8.com/color/96/000000/nodejs.png" height="40px" /></a> </td>
+    <td align=center><a href="https://www.typescriptlang.org/"><div>Typescript</div><img src="https://img.icons8.com/color/96/000000/typescript.png" height="40px" /></a></td>
+    <td align=center><a href="https://storybook.js.org/"><div>Storybook</div><img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" height="40px" /></a></td>
+    <td align=center><a href="https://jestjs.io/pt-BR/"><div>Jest</div><img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" height="40px" /></a></td>
+  </tr>
+</table>
 
 <br/>
 
